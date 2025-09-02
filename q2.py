@@ -12,4 +12,4 @@ while quant in range(quant,0,-1):
         cmaior=cmaior + 1
 print(f"O valor total dos produtos é: {valortotal}.")
 print(f"Há {cmenor} itens abaixo de 50.")
-print(f"Há {cmaior} itens acima de 50.")
+print(f"Há {cmaior} itens acima de 50. ")
